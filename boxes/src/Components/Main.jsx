@@ -19,7 +19,7 @@ const Main = () => {
     // newSetBoxes.push(newBoxObj);
     // setBoxes(newSetBoxes);
 
-
+// setbox function = set an array and lay each box and add new box at the end
     setBoxes([...boxes, newBoxObj])
   };
 
